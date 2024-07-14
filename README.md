@@ -3,7 +3,7 @@
 - currently learning Javascript and CSS
 - looking to collaborate/be mentored on creating a recommender system concerning anything pop music or literature-related 
 - also looking to shadow or be a research professor for anyone researching DS
-saniya.sarower@gmail.com
+- saniya.sarower@gmail.com
 IG: saniyas____
 
 
