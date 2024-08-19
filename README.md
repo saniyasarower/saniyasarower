@@ -4,7 +4,7 @@
 - AP Computer Science A student
 - currently learning Python and ML
 - looking to collaborate/be mentored on creating a recommender system concerning anything pop music or literature-related 
-- also looking to shadow or be a research professor for anyone researching DS
+- also looking to shadow or be a research assistant for anyone researching DS
 - saniya.sarower@gmail.com
 IG: saniyas____
 
