@@ -3,7 +3,6 @@
 - currently learning Python and ML
 - looking to collaborate/be mentored on creating a recommender system concerning anything pop music or literature-related 
 - saniya.sarower@gmail.com
-IG: saniyas____
 
 
 <!---
