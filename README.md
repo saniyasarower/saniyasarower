@@ -1,6 +1,6 @@
 @saniyasarower
-- interested in all things *data science*! Python, SQL, R...
-- currently learning Python and ML
+- interested in all things *data science*, AI/ML, fintech
+- currently learning C++
 - looking to collaborate/be mentored on creating a recommender system concerning anything pop music or literature-related 
 - saniya.sarower@gmail.com
 
